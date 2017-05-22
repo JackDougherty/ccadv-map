@@ -7,7 +7,7 @@ var map = L.map('map', {
 
 // Edit links to your GitHub repo and data source credit
 map.attributionControl
-.setPrefix('View <a href="http://github.com/jackdougherty/ccdav-map">code</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
+.setPrefix('View <a href="http://github.com/jackdougherty/ccdav-map">code</a>, created by <a href="http://DataVizForAll.org">DataVizForAll.org</a> with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
 
 // Basemap layer
 new L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
