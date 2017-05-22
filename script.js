@@ -84,7 +84,7 @@ info.onAdd = function (map) {
 
 // Edit info box text and variables (such as props.density2010) to match those in your GeoJSON data
 info.update = function (props) {
-  this._div.innerHTML = '<h4>Connecticut Coalition Against Domestic Violence<br />Member Map 2017</h4>' +  (props ?
+  this._div.innerHTML = '<h4>Connecticut Coalition Against Domestic Violence<br />Member Map</h4>'  +  (props ?
     '<b>' + props.fullname + '</b><br />'
     : 'Hover over a town');
 };
