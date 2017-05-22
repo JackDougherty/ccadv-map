@@ -16,24 +16,24 @@ Connecticut Coalition Against Domestic Violence - Leaflet map polygon hover modi
 - note that Points.geojson contains general locations inside polygons (41.74, -72.67), NOT exact locations of specific buildings
 
 ## names for uniform file structure
--center-for-family-justice
--chrysalis
--domestic-abuse-services
--dvcc-norwalk
--dvcc-stamford
--interval-house
--new-horizons
--prudence-crandall
--safe-futures
--safe-haven
--sba-project
--the-network
--umbrella-ansonia
--umbrella-north-haven
--united-services-dayville
--united-services-willimantic
--womens-center
--womens-support-services
+- center-for-family-justice
+- chrysalis
+- domestic-abuse-services
+- dvcc-norwalk
+- dvcc-stamford
+- interval-house
+- new-horizons
+- prudence-crandall
+- safe-futures
+- safe-haven
+- sba-project
+- the-network
+- umbrella-ansonia
+- umbrella-north-haven
+- united-services-dayville
+- united-services-willimantic
+- womens-center
+- womens-support-services
 
 
 ## TO DO
