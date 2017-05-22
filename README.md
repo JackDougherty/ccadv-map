@@ -37,7 +37,7 @@ womens-support-services
 
 
 ## TO DO
-- ask Ilya about relative link syntax in script.js line 23 "View <a href='/charts/'"
+- ask Ilya about relative link syntax in script.js line 23 + "View <a href='ccadv-map/charts/'" 
 - confirm that Kelly wants dual interface: hover over polygons and click on points
   - contrast with clickable points and polygons https://jackdougherty.github.io/otl-redlining/index-frame.html
 - clarify how to display long names inside the info box
