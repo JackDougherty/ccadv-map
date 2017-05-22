@@ -20,8 +20,8 @@ $.getJSON("points.geojson", function (data){
       var marker = L.marker(latlng);
       // var popupText = "Go to <a href='http://google.com' target='_blank'>Google</a>"
       var popupText = "Go to <a href='" + feature.properties.web + "' target='_blank'>" + feature.properties.fullname +"</a></br>"
-      + "View <a href='/charts/'" + feature.properties.name + ".png' target='_blank'> top 3 services chart</a></br>"
-      + "View <a href='/facts/'" + feature.properties.name + ".pdf' target='_blank'> fact sheet PDF</a></br>";
+      + "View <a href='../charts/'" + feature.properties.name + ".png' target='_blank'> top 3 services chart</a></br>"
+      + "View <a href='../facts/'" + feature.properties.name + ".pdf' target='_blank'> fact sheet PDF</a></br>";
       marker.bindPopup(popupText);
       return marker;
     }
